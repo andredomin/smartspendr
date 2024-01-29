@@ -1,8 +1,11 @@
-@import url('https://fonts.googleapis.com/css2?family=Honk&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100;300;400;500;600;700;800;900&display=swap');
 
 body{
-    font-family: 'Honk';
-    background-color: rgb(53, 76, 124);
+    font-family: 'Montserrat';
+    background-color: rgb(156, 179, 228);
+}
+h1{
+    color: white;
 }
 
 .title{
@@ -16,10 +19,30 @@ body{
 }
 
 h2{
-    font-size: 2rem;
+    font-size: 1.5rem;
+    color: white;
+    margin-top: 15vh;
+}
+
+h2:hover{
+    background-color: white;
+    color: rgb(184, 38, 128);
 }
 
 a{
+    
     text-decoration: none;
+    color: white;
+    padding: 14px;
+    border-radius: 15px;
+    background-color: rgb(184, 38, 128);
 }
 
+a:hover{
+    background-color: white;
+    color: rgb(184, 38, 128);
+}
+
+span{
+    color: rgb(184, 38, 128);
+}
