@@ -5,7 +5,12 @@ body{
     background-color: rgb(156, 179, 228);
 }
 h1{
+    display: inline-block;
     color: white;
+    background-color: black;
+    width: 100vw;
+    margin-top: -2vh;
+    padding-left: 41%;
 }
 
 .title{
