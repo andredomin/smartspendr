@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Honk&display=swap');
+
+body{
+    font-family: 'Honk';
+    background-color: rgb(53, 76, 124);
+}
+
+.title{
+    display: flex;
+    justify-content: center;
+}
+
+.ahorro, .gastos{
+    display: flex;
+    justify-content: center;
+}
+
+h2{
+    font-size: 2rem;
+}
+
+a{
+    text-decoration: none;
+}
+
