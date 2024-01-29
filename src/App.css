@@ -5,12 +5,10 @@ body{
     background-color: rgb(156, 179, 228);
 }
 h1{
-    display: inline-block;
+    display: inline;
     color: white;
     background-color: black;
-    width: 100vw;
     margin-top: -2vh;
-    padding-left: 41%;
 }
 
 .title{
@@ -22,6 +20,7 @@ h1{
     display: flex;
     justify-content: center;
 }
+
 
 h2{
     font-size: 1.5rem;
