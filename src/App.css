@@ -2,12 +2,11 @@
 
 body{
     font-family: 'Montserrat';
-    background-color: rgb(156, 179, 228);
+    background-color: rgb(255, 255, 255);
 }
 h1{
-    display: inline;
-    color: white;
-    background-color: black;
+    padding-top: 10vh;
+    color: rgb(0, 0, 0);
     margin-top: -2vh;
 }
 
@@ -30,7 +29,7 @@ h2{
 
 h2:hover{
     background-color: white;
-    color: rgb(184, 38, 128);
+    color: rgb(0, 0, 0);
 }
 
 a{
@@ -39,14 +38,14 @@ a{
     color: white;
     padding: 14px;
     border-radius: 15px;
-    background-color: rgb(184, 38, 128);
+    background-color: rgb(0, 0, 0);
 }
 
 a:hover{
     background-color: white;
-    color: rgb(184, 38, 128);
+    color: rgb(66, 197, 114);
 }
 
 span{
-    color: rgb(184, 38, 128);
+    color: rgb(66, 197, 114);
 }
